@@ -1,0 +1,17 @@
+{
+  "name": "methodddd-selfbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JavaScript selfbot with token login and rotating Rich Presence",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/config.js && node --check src/presence.js"
+  },
+  "engines": {
+    "node": ">=20.18.0"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.0"
+  }
+}
