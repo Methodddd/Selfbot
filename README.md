@@ -33,5 +33,3 @@ No build step is required. Rich Presence settings are included in the source cod
 ## Notice
 
 Using selfbots is not recommended. They violate Discord's Terms of Service and may result in an account ban.
-
-Keep your token private and never commit it to GitHub.
